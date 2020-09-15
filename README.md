@@ -1,4 +1,5 @@
-EECS 433 Project
+Comparison of Different Graph DataBase Implementations  
 ================
 
-Data and code for EECS 433 Project.
+
+All the information about these results and code can be found in TechnicalReport.pdf.
